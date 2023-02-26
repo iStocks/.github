@@ -1,14 +1,12 @@
 # Stocks App
 
-iOS application with SwiftUI, its' own [Vapor](https://github.com/vapor/vapor) backend and server-driven UI
-
 | Topic | Technology |
 |---|---|
 | 🖼 UI | SwiftUI, Server-Driven |
-| 🧱 Architecture | VIP |
-| 🗄 Backend | Vapor |
+| 🧱 Architecture | MVVM |
+| 🗄 Backend | [Vapor](https://github.com/vapor/vapor) |
 | 🌐 Networking | URLSession |
 | 🗃 Storage | CoreData |
-| ⛓ Concurrency | async/await |
+| ⛓ Concurrency | async/await/actor |
 | 🛠 Testing | XCTest (Unit/UI) |
 | 📱 Platforms | iOS 16.0, iOS 16.0, macOS 13.0 |
